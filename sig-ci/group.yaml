@@ -14,7 +14,6 @@ leadership:
   emeritus_leads:
     - github: brianmcarey
       name: Brian Carey
-      company: Red Hat
 approvers:
   - github: dhiller
     name: Daniel Hiller
@@ -22,6 +21,10 @@ approvers:
   - github: dollierp
     name: Denis Ollier Pinas
     company: Red Hat
+emeritus_approvers:
+  - github: brianmcarey
+    name: Brian Carey
+    date: 2026-02-18
 reviewers:
   - github: dhiller
     name: Daniel Hiller
